@@ -14,9 +14,7 @@ HtML practice and Git Deploy
 ## Project structure
 
 fs13-basic-html-1
-│   index.html
-│   README.md
-│
-└───.dist
-
+    .                
+    ├── index.html
+    └── README.md
 
