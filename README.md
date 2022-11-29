@@ -9,3 +9,14 @@ HtML practice and Git Deploy
 3. Embedded objects
 4. sort of lists
 5. (✿◕‿◕✿)
+
+
+## Project structure
+
+fs13-basic-html-1
+│
+└───index.html
+│
+└───README.md
+
+
