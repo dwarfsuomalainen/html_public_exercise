@@ -17,4 +17,3 @@ fs13-basic-html-1
     .
     ├── index.html
     └── README.md
-
