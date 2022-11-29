@@ -1,6 +1,6 @@
 # Short HTML page with some personal introduction details
 
-HtML practice and Git Deploy
+HTML practice and Git Deploy
 
 ## Project contains 
 **Several different types of tags**
